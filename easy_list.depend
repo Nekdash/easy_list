@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638782811 source:c:\users\uchenik\desktop\easy_list\itc_even_index_list.cpp
+	"easy_list.h"
+
+1638782811 c:\users\uchenik\desktop\easy_list\easy_list.h
+	<vector>
+
+1638783376 source:c:\users\uchenik\desktop\easy_list\itc_even_parts_list.cpp
+	"easy_list.h"
+
+1638783376 source:c:\users\uchenik\desktop\easy_list\main.cpp
+	<iostream>
+	"easy_list.h"
+
