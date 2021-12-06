@@ -10,7 +10,7 @@ void enter_vector(vector<int> &mass, int len){
     }
 }
 void print_vector(const vector<int> &mass){
-    for(int i =0 ; i < mass.size(); i++){
+    for(int i = 0 ; i < mass.size(); i++){
         cout << mass[i] << endl;
     }
 }
@@ -19,12 +19,13 @@ void print_vector(const vector<int> &mass){
 int main()
 {
     int len1, len2;
+    cout << "Enter len1:" << endl;
     cin >> len1;
     vector<int> mass;
     vector<int> mass2;
     enter_vector(mass, len1);
     //itc_even_index_list(mass, mass2);
-    itc_even_parts_list(mass, mass2);
+    //itc_even_parts_list(mass, mass2);
     print_vector(mass2);
 
     return 0;
