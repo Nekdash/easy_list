@@ -12,3 +12,37 @@
 	<iostream>
 	"easy_list.h"
 
+1639198485 source:c:\users\darya\documents\github\wasp\easy_list\itc_even_index_list.cpp
+	"easy_list.h"
+
+1639198485 c:\users\darya\documents\github\wasp\easy_list\easy_list.h
+	<vector>
+
+1639198485 source:c:\users\darya\documents\github\wasp\easy_list\itc_even_parts_list.cpp
+	"easy_list.h"
+
+1639199271 source:c:\users\darya\documents\github\wasp\easy_list\itc_positive_list.cpp
+	"easy_list.h"
+
+1639200210 source:c:\users\darya\documents\github\wasp\easy_list\itc_rev_list.cpp
+	"easy_list.h"
+
+1639198867 source:c:\users\darya\documents\github\wasp\easy_list\itc_rev_par_list.cpp
+	"easy_list.h"
+
+1639199033 source:c:\users\darya\documents\github\wasp\easy_list\itc_rshift_list.cpp
+	"easy_list.h"
+
+1639199620 source:c:\users\darya\documents\github\wasp\easy_list\itc_same_parts_list.cpp
+	"easy_list.h"
+
+1639199402 source:c:\users\darya\documents\github\wasp\easy_list\itc_sl_list.cpp
+	"easy_list.h"
+
+1639200243 source:c:\users\darya\documents\github\wasp\easy_list\itc_super_shift_list.cpp
+	"easy_list.h"
+
+1639200243 source:c:\users\darya\documents\github\wasp\easy_list\main.cpp
+	<iostream>
+	"easy_list.h"
+

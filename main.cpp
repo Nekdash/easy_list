@@ -26,6 +26,7 @@ int main()
     enter_vector(mass, len1);
     //itc_even_index_list(mass, mass2);
     //itc_even_parts_list(mass, mass2);
+    itc_rev_list(mass);
     print_vector(mass2);
 
     return 0;
