@@ -2,6 +2,7 @@
 
 void itc_rshift_list(vector <int> &mass){
     if(mass.size() != 0){
+        
     int temp;
     int zero = mass[mass.size()-1];
     for(int i = mass.size() - 1; i > 0; i--){
