@@ -1,7 +1,11 @@
 #include "easy_list.h"
 
 void lshift(vector<int> &mass){
-    
+    int store = mass[0];
+    for( int i = 1; i < mass.size(); i++){
+        mass[i - 1] = mass[i];
+    }
+    mass[mass.size() - 1] = store;
 
 }
 
