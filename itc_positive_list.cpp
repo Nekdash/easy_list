@@ -8,6 +8,6 @@ int itc_positive_list(const vector <int> &mass){
         if(mass[i] >= 0){
             res++;
         }
-    })
+    }
     return res;
 }
