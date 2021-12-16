@@ -9,7 +9,7 @@ void itc_super_shift_list(vector <int> &mass, int n){
         if(ch < 0){
             ch = mass.size() + ch;
         }else if(ch > mass.size() -1){
-            ch = ch  - mass.size;
+            ch = ch  - mass.size();
         }
         temp = mass[i];
         mass[i] = mass[ch];
