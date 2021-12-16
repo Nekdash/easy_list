@@ -1,5 +1,10 @@
 #include "easy_list.h"
 
+void lshift(vector<int> &mass){
+    
+
+}
+
 void itc_super_shift_list(vector<int> &mass, int n){
     if(n > 0){
 
